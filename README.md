@@ -44,14 +44,17 @@ MY PROFILE
 
 Conveyance
 
-  - Post
-    This is basically if a user is looking for a co passenger, so he can just post the details of his travel, and his request will be posted. The other user will       have the option to request him to tag him along.
+  Post
+    
+   This is basically if a user is looking for a co passenger, so he can just post the details of his travel, and his request will be posted. The other user will       have the option to request him to tag him along.
 
-  - Search
-    In this the user will have the option to look for the rides already posted so that he can request the user to pool the ride if he has the same destination.
+  Search
+    
+   In this the user will have the option to look for the rides already posted so that he can request the user to pool the ride if he has the same destination.
 
-  - My Request
-    Here the user can look for his requests if they have been declined or accepted.
+  My Request
+   
+   Here the user can look for his requests if they have been declined or accepted.
 
 
 Buy and Sell (Yet to implement)
