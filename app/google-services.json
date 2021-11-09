@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246467149324",
+    "firebase_url": "https://campusbox-2dc92.firebaseio.com",
+    "project_id": "campusbox-2dc92",
+    "storage_bucket": "campusbox-2dc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246467149324:android:735f3e349da4dcb2c5b829",
+        "android_client_info": {
+          "package_name": "com.example.campusbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246467149324-g71mu2fsnk8hh0376jr8gua83uef56pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campusbox",
+            "certificate_hash": "7c6df6e572b7b4b2ab02b43d55e80ea33c838255"
+          }
+        },
+        {
+          "client_id": "246467149324-blamd4tuuomso7iiifkih2eeue2u53pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yf-RB2xuGCC54glEuUQ6_1sukGC9n_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246467149324-blamd4tuuomso7iiifkih2eeue2u53pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

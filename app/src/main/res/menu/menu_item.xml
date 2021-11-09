@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+    <item android:title="Conveyance" android:icon="@drawable/conveyance" android:id="@+id/conveyance" />
+
+    <item android:title="Future" android:icon="@drawable/future" android:id="@+id/future"/>
+
+</group>
+
+
+    <group android:checkableBehavior="single">
+
+    <item android:title="My Profile" android:icon="@drawable/profile" android:id="@+id/myprofile"/>
+
+    <item android:title="Logout" android:icon="@drawable/logout" android:id="@+id/logout"/>
+
+</group>
+
+</menu>
