@@ -7,7 +7,7 @@ We students face problems while buying and selling things as there is no exclusi
 We at CampusBox are trying to create a platform where all the students can interact exclusively. After successfully implementing basic components, we plan on integrating this portal further, such as creating a news-feed that connects all the clubs and teams with the concerned students.
 
                                                                     
-#### SPLASH SCREEN
+#### *SPLASH SCREEN*
 
   We have designed our logo and put it in splashscreen.
   Everytime the user opens the app it comes for 2 seconds until the app is loaded.
@@ -20,7 +20,7 @@ We at CampusBox are trying to create a platform where all the students can inter
 
 #### *LOGIN PAGE*
 
-  MOBILE VERIFICATION
+  ###### MOBILE VERIFICATION
   
    Firebase Authentication -  to sign in a user by sending an SMS message to the user's phone.
    The user signs in using a one-time code (the verification code) contained in the SMS message.
