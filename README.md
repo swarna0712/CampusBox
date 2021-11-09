@@ -19,12 +19,12 @@ LOGIN PAGE
 
   MOBILE VERIFICATION
   
-    Firebase Authentication -  to sign in a user by sending an SMS message to the user's phone.
-    The user signs in using a one-time code (the verification code) contained in the SMS message.
-    User first enters his/her mobile number in the login page.
-    OTP is sent to this number via SMS message. Proceeds to next page if authentication is successful.
-    If user  is not registered it goes to the registration page and prompts the user to complete registration in order to use the app.
-    If user is already registered then it goes to the home page of the app.
+   Firebase Authentication -  to sign in a user by sending an SMS message to the user's phone.
+   The user signs in using a one-time code (the verification code) contained in the SMS message.
+   User first enters his/her mobile number in the login page.
+   OTP is sent to this number via SMS message. Proceeds to next page if authentication is successful.
+   If user  is not registered it goes to the registration page and prompts the user to complete registration in order to use the app.
+   If user is already registered then it goes to the home page of the app.
 
 
 -FIREBASE CLOUD FIRESTORE
