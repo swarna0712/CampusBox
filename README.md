@@ -1,10 +1,12 @@
 # CampusBox
-Android Studio application integrated with Firebase Cloud where you can connect with students who would want to share a ride with.
+We at CampusBox are trying to create a platform where all the students can interact exclusively. 
+User-Interactive Android Studio application integrated with Firebase Cloud where you can connect with students who would want to share a ride with.
 This project aims at assisting people who want to commute to places.
 Add your travel details or just request someone to tag along!
 This is one of the major problems which we we, as students, face in our campus. We are trying to solve this issue by creating a separate portal for students to post their travel details, and allows other students to view, search and request for pooling on such posts, which can be accepted or rejected by the user.
 We students face problems while buying and selling things as there is no exclusive portal to facilitate such transactions, and using other platforms leads to various inconveniences. Thus, we aim at connecting all such buyers and sellers through a common platform and making these purchases hassle-free.
-We at CampusBox are trying to create a platform where all the students can interact exclusively. After successfully implementing basic components, we plan on integrating this portal further, such as creating a news-feed that connects all the clubs and teams with the concerned students.
+We’ve successfully implemented the basic component and we plan on enhancing this portal further, such as creating a news feed that connects all the clubs and teams with the concerned students.
+
 
                                                                     
 #### *SPLASH SCREEN*
